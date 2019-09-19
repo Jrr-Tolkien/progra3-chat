@@ -5,18 +5,18 @@
 }
 h1 {
     font-weight: bold;
-    color: #fff;
+    color: #00635D;
     font-size: 32px;
 }
 body {
-    background: #01172F;
+    background: #2FF5EF;
     padding: 10px;
     height: auto;
     width: auto;
 }
 
 
-#title {
+#title { 
     display: inline-grid;
     grid-template-columns: 65vh 50vh
 }

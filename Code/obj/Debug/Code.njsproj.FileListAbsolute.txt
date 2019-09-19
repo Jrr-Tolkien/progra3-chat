@@ -1,6 +1,0 @@
-C:\Users\Tolkien\Desktop\Progra-Chat\Code\Code\obj\Debug\Code.njsprojAssemblyReference.cache
-C:\Users\Tolkien\Desktop\Progra-Chat\Code\Code\obj\Debug\Code.njsproj.CoreCompileInputs.cache
-C:\Users\Tolkien\Desktop\Progra-Chat\Code\Code\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\valer\OneDrive\Desktop\Progra Chat\progra3-chat\Code\obj\Debug\Code.njsprojAssemblyReference.cache
-C:\Users\valer\OneDrive\Desktop\Progra Chat\progra3-chat\Code\obj\Debug\Code.njsproj.CoreCompileInputs.cache
-C:\Users\valer\OneDrive\Desktop\Progra Chat\progra3-chat\Code\bin\Microsoft.NodejsTools.WebRole.dll
