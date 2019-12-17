@@ -1,0 +1,22 @@
+.chat-box {
+    overflow: auto;
+    height: 500px;
+}
+
+.chat-alert {
+    border-radius: 3px;
+    margin: 10px;
+    padding: 5px;
+    background: #26384B;
+    color: white;
+    font-size: 15px;
+}
+
+.chat-personal {
+    border-radius: 3px;
+    margin: 10px;
+    padding: 5px;
+    background: #739146;
+    color: white;
+    font-size: 15px;
+}
