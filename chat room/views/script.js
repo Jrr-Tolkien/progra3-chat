@@ -70,7 +70,7 @@ socket.on('new-message', function(new_msg) {
 send_button.on("click", function() {
     if ($("#message_input").val() != "") {
 
-        $.post('http://' + window.location.host + 'e', { user: user_name, text: $("#message_input").val() });
+        $.post('http://' + window.location.host + '/api/message', { user: user_name, text: $("#message_input").val() });
         socket.emit('new-message', {
             'name': user_name,
             'text': $("#message_input").val()
