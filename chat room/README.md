@@ -1,6 +1,6 @@
 Frontend and backend code for a chatroom
 In order to make it work, config.js must be modified (add the mongodb connection string)
-This project saves its messages on a data base(mongose),it lets you talk on real time using sockects.
+This project saves its messages on a data base(mongose), lets you talk on real time using sockects.
 Stuff used:
 -HTML (part of the frontend)
 -Javascript (functions for the frontend)
